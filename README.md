@@ -1,5 +1,6 @@
 # DN160CF LED Ring
-CAD files for a DN160CF vacuum flange LED ring. 3D Printed with PLA, LED strip can be glued. Additionally, reflective tape on the inside part of the ring can improve the performance.
+CAD files for a DN160CF vacuum flange LED ring to illuminate the inside of a vacuum chamber. Low-cost alternative to expensive commercial products.
+3D Printed with PLA, LED strip can be glued. Additionally, reflective tape on the inside part of the ring can improve the performance.
 
 ![render of led_ring](dn160cf_led_ring_render.png "LED Ring Render")
 
